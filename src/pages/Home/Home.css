@@ -1,0 +1,23 @@
+
+
+
+.containerHome {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+
+.textcenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 6rem;
+  bottom: 46px;
+  position:absolute;
+  z-index: 1;
+  background-color: #012905;
+  color: aliceblue;
+  width: 100%;
+  height: 6%;
+}
